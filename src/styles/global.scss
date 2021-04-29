@@ -1,26 +1,27 @@
 :root {
-  --blue: #273FAD;
-  --green: #3FAD27;
-  --red: 	#ad273f;
-  --background: #EBEBEB;
-  --shapes: #FFFFFF;
-  --text-title: #3D3D4D;
-  --text: #1C1C29;
-  --text-light: #A09CB1;
+  --blue: #0962ed;
+  --green: #3fad27;
+  --red: #ad273f;
+  --background: #ebebeb;
+  --shapes: #ffffff;
+  --text-title: #3d3d4d;
+  --text: #1c1c29;
+  --text-light: #a09cb1;
 }
 
 * {
-  margin: 0;
   padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
 
 body {
-  font: 16px "Poppins", Arial, sans-serif;
-  color: #121214;
+  font: 16px "Poppins", Helvetica, sans-serif;
+  color: var(--text);
 }
 
-input, textarea {
+input,
+textarea {
   font-family: "Poppins";
 }
 
@@ -30,6 +31,7 @@ input, textarea {
   padding: 2.5rem 1rem;
 }
 
-button, .checkmark {
+button,
+.checkmar {
   cursor: pointer;
 }
