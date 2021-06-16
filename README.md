@@ -7,7 +7,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 
-# React Task List
+# ReactJs Task List
 This is a task list web application created with React
 
 ## Technologies Used:
