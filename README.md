@@ -14,8 +14,10 @@
 ![GitHub license](https://img.shields.io/github/license/gezielelyon/react_task_list)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
+![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
+![CSS](https://img.shields.io/badge/CSS-Styles-pink)
 ![React Todo](https://img.shields.io/badge/React-components-orange)
-![Scss](https://img.shields.io/badge/Scss-Styles-red)
+![Scss](https://img.shields.io/badge/Scss-Styles-purple)
 
 </div>
 
