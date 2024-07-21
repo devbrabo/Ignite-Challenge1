@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **React Task List**
+# **Task List**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_task_list)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_task_list)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_task_list)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/react_task_list)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/task-list)](https://github.com/gezielelyon/task-list/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/task-list)](https://github.com/gezielelyon/task-list/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/task-list)](https://github.com/gezielelyon/task-list/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/task-list)](https://github.com/gezielelyon/task-list)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
